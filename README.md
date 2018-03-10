@@ -7,4 +7,5 @@ Screenshot
 ![alt tag](https://github.com/piyush-malaviya/JniFloodFill/blob/master/screenshot/screenshot.jpg)
 
 Credits
-<a href="https://github.com/mar3kk">mar3kk</a>
+</br>
+Use jnibitmap.cpp file from <a href="https://github.com/mar3kk/threekkapps_library/">https://github.com/mar3kk/threekkapps_library/</a>
